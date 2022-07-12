@@ -1,4 +1,6 @@
-### Hi there 👋
+## Olá!! 👋
+
+# Bibliografica
 
 Sou uma Dev Novata, mas muito dedicada, que adora aprender! Estou a procura do meu primeiro estagio na area.
 
@@ -18,4 +20,6 @@ Sou uma Dev Novata, mas muito dedicada, que adora aprender! Estou a procura do m
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabriellePintanel&repo=dsmeta-css)](https://github.com/GabriellePintanel/dsmeta-css)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabriellePintanel&repo=Curriculo_dev_week.github.io)](https://github.com/GabriellePintanel/Curriculo_dev_week.github.io)
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](www.linkedin.com/in/gabrielle-pintanel-445498195)
+# Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='25'>](www.linkedin.com/in/gabrielle-pintanel-445498195)     www.linkedin.com/in/gabrielle-pintanel-445498195
