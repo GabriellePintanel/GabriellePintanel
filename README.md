@@ -12,3 +12,7 @@ Sou uma Dev Novata, mas muito dedicada, que adora aprender! Estou a procura do m
 ![OpenJDK](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriellePintanel&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+# Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabriellePintanel&repo=dsmeta-css)](https://github.com/anuraghazra/github-readme-stats)
