@@ -16,7 +16,7 @@ Sou uma Dev Novata, mas muito dedicada, que adora aprender! Estou a procura do m
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabriellePintanel&repo=dsmeta-css)](https://github.com/GabriellePintanel/dsmeta-css)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabriellePintanel&repo=dsmeta)](https://github.com/GabriellePintanel/dsmeta)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabriellePintanel&repo=Curriculo_dev_week.github.io)](https://github.com/GabriellePintanel/Curriculo_dev_week.github.io)
 
 # Contatos
